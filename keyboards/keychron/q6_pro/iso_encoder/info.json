@@ -1,10 +1,8 @@
 {
      "usb": {
     	"pid": "0x0661",
+        "vid" : "0x3434",
     	"device_version": "1.0.0"
-    },
-    "dynamic_keymap": {
-        "layer_count": 6
     },
     "layouts": {
         "LAYOUT_110_iso": {
